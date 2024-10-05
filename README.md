@@ -1,18 +1,16 @@
 [![](https://raw.githubusercontent.com/benoit-dumont/benoit-dumont/main/banner.png)]()
 
-<div align="center">
-
 [![Mail](https://img.shields.io/badge/-Mail-272858?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:contact.dumont-benoit.fr)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-272858?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/benoit-dumont/)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-20214b?style=for-the-badge&logo=About.me&logoColor=white)](https://benoit-dumont.github.io/portfolio/)
 
-</div>
+<details open>
+
+<summary>
 
 ## Stack
 
-<div style="display: flex; justify-content: center;">
-
-<div align="left" style>
+</summary>
 
 ### Front
 
@@ -24,10 +22,6 @@
 ![VueJS](https://img.shields.io/badge/-Vue-272858?&logo=Vue.JS&style=for-the-badge)
 ![Nuxt](https://img.shields.io/badge/-Nuxt-272858?&logo=Nuxt.JS&style=for-the-badge)
 
-</div>
-
-<div align="right">
-
 ### Back
 
 ![NodeJS](https://img.shields.io/badge/-NodeJS-272858?&logo=Node.js&style=for-the-badge)
@@ -36,10 +30,6 @@
 ![puppeteer](https://img.shields.io/badge/-puppeteer-272858?&logo=puppeteer&style=for-the-badge)
 ![Electron](https://img.shields.io/badge/-Electron-272858?&logo=Electron&style=for-the-badge)
 ![API](https://img.shields.io/badge/-API_REST-272858?&logo=API%20rest&style=for-the-badge)
-
-</div>
-
-</div>
 
 ### Code quality
 
@@ -84,6 +74,8 @@
 ![Insomnia](https://img.shields.io/badge/-Insomnia-272858?&logo=insomnia&style=for-the-badge)
 ![VSCode](https://img.shields.io/badge/-Visual_Studio_Code-272858?&logo=visual%20studio%20code&style=for-the-badge)
 ![Windows Terminal](https://img.shields.io/badge/-Windows_Terminal-272858?&logo=windows%20terminal&style=for-the-badge)
+
+</details>
 
 <details open>
 
